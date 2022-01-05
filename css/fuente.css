@@ -1,0 +1,48 @@
+@font-face{
+  font-family: julito;
+  src: url(../css/ttf/Headliner.ttf);  
+}
+h1-1 {
+  font-family: julito;
+  font-size: 500%;
+  color: #F39C12;  
+}
+
+.top-text{
+  margin: 30px 0px 30px 0px;	
+  padding: 10px;
+  text-align: center; 
+  background: rgba(0,0,0,0.5);
+  display: inline-block;  
+}
+
+.top-text p{
+  color: #fff;
+}
+.top-text table{
+  width: 100%;
+  margin: 0 auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center; 
+  font-size: 20px;
+  table-layout: fixed;
+  background:   red;
+  opacity: 0.2;
+  color: black;
+  margin-top: 50px;
+}
+.top-text tr {
+  border: 2px solid black;
+  /*opacity: 0.5;*/
+  padding: 20px;
+  background: black;  
+    color: #fff;
+  }
+ .top-text td{
+  border: 2px solid black;
+  /*opacity: 0.5;*/
+  padding: 20px;
+    color: #fff;
+
+}
